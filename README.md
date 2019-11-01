@@ -4,6 +4,12 @@ This project is a boilerplate of React/Redux stack, having it's purpose of setti
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Contribution
+
+The project is on it's early stages, so if you have some ideas how it can be improved, please don't hesitate to add your contribution, which will help others to focus on app logic development, rather than setting thing up.
+
+In order to contribute, just fork the repository, add all the changes you may want, and open a Pull Request from the forked repository to this current one.
+
 ## Available Scripts
 
 In the project directory, you can run:
