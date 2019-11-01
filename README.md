@@ -1,3 +1,7 @@
+## Description
+
+This project is a boilerplate of React/Redux stack, having it's purpose of setting up the environment, and not wasting time of doing it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
